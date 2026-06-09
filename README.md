@@ -1,3 +1,3 @@
 # demo
 This is my practice repository.
-Autor - Ragni Kapoor
+Author - Ragni Kapoor
